@@ -1,0 +1,5 @@
+package br.com.fernando.api.repositorio;
+
+public interface Repositorio {
+
+}
